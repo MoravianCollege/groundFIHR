@@ -1,5 +1,6 @@
 # GitPlayTime
 
 ## Contributers
-NIck Cicchetti
+Nick Cicchetti
+Spencer Diernbach
 
