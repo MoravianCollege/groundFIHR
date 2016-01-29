@@ -4,3 +4,4 @@
 
 * Nick Cicchetti
 * Derek Raines
+* Chris Angelico
