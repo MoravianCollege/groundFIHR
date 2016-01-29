@@ -1,6 +1,7 @@
 # GitPlayTime
 
 ## Contributers
-Nick Cicchetti
-Spencer Diernbach
-
+* Nick Cicchetti
+* Derek Raines
+* Chris Angelico
+* Spencer Diernbach
