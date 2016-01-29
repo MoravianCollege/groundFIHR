@@ -1,5 +1,6 @@
 # GitPlayTime
 
 ## Contributers
-NIck Cicchetti
-Derek Raines
+
+* Nick Cicchetti
+* Derek Raines
